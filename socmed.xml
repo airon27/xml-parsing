@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<socmed>
+    <apps>
+        <name>Facebook</name>
+        <company>Meta Platforms, Inc.</company>
+        <description>Facebook is the largest social media platform in the world.</description>
+        <developers>
+            <founders>Mark Zuckerberg</founders>
+            <founders>Eduardo Saverin</founders>
+            <founders>Dustin Moskovitz</founders>
+            <founders>Chris Hughes</founders>
+        </developers>
+    </apps>
+    <apps>
+        <name>Youtube</name>
+        <company>Google Inc.</company>
+        <description>YouTube dominates video content sharing.</description>
+        <developers>
+            <founders>Steve Chen</founders>
+            <founders>Chad Hurley</founders>
+            <founders>Jawed Karim</founders>
+            <founders>Susan Diane Wojcicki</founders>
+        </developers>
+    </apps>
+    <apps>
+        <name>Instagram</name>
+        <company>Meta Platforms, Inc.</company>
+        <description>Instagram is a social network where product-based businesses, influencers, and coaches can thrive.</description>
+        <developers>
+            <founders>Kevin Systrom</founders>
+            <founders>Mike Krieger</founders>
+            <founders>Adam</founders>
+            <founders>Mosseri</founders>
+        </developers>
+    </apps>
+    <apps>
+        <name>Tiktok</name>
+        <company>ByteDance Ltd.</company>
+        <description>Tiktok is the leading destination for short-form mobile video” with a company mission to inspire creativity and bring joy.</description>
+        <developers>
+            <founders>Zhang Yiming</founders>
+            <founders>Toutiao</founders>
+            <founders>Shou</founders>
+            <founders>Zi Chew</founders>
+        </developers>
+    </apps>
+    <apps>
+        <name>Twitter</name>
+        <company>Twitter, Inc.</company>
+        <description>Twitter is a microblogging platform where users primarily share short posts called tweets.</description>
+        <developers>
+            <founders>Evan Williams</founders>
+            <founders>Biz Stone</founders>
+            <founders>Noah Glass</founders>
+            <founders>Jack Dorsey</founders>
+        </developers>
+    </apps>
+</socmed>
